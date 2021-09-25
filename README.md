@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iazadur
-- 👀 I’m interested in Full stack developer
+- 👀 I’m interested in MERN stack developer
 - 🌱 I’m currently learning Python/Django with bootstrap
 - 💞️ I’m looking to collaborate on Backend with Django
 - 📫 You can reach me iamazadur@gmail.com
