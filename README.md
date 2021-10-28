@@ -1,13 +1,13 @@
 # 🖐 Hi , I am [Md Azadur Rahman](https://iazadur.netlify.app/)
 
 
-![Github Cover](githubcover.jpg)
+<!-- ![Github Cover](githubcover.jpg) -->
 ### Here are some ideas about me
 
 <p>
-👑 I am Web Developer <br> 
+👑 I am MREN Stack Developer <br> 
 🖊️ Love to write code <br> 
-🎤 Like to share my knowledge <br>
+🎤 Like to learning & share my knowledge <br>
 📫 My Portfolio: [Md Azadur Rahman](https://iazadur.netlify.app/)</p> 
 
 
@@ -22,11 +22,13 @@ my favorite parts of being a High-Level programmer.
 
 
 ## 👨‍💻 Skills & Experiance: 
-✅ WordPress <br> 
+✅ React Js <br> 
 ✅ JavaScript <br>
-✅ PHP <br>
-✅ HTML5 / CSS3 / SASS / Bootstrap <br>
-✅ Photoshop / Illustrator <br>
+✅ Node <br>
+✅ Express <br>
+✅ Mongodb <br>
+✅ HTML5 / CSS3 / SASS / Bootstrap / tailwindcss / Material <br>
+
 
 
 
@@ -73,7 +75,7 @@ my favorite parts of being a High-Level programmer.
 [![Vs Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D6?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/19smabtahinoor)
 
 
- -->
+<!--  -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iazadur&show_icons=true&theme=cobalt)  
 
 # 🚀 Some Projects
@@ -337,7 +339,7 @@ my favorite parts of being a High-Level programmer.
 <details>
 <summary>Navar with React and Tailwind CSS</summary>
 
-1. Live Demo: https://navbar-react-tailwind.vercel.app/
+1. Live Demo: https://navbar-react-tailwind.vercel.app/ -->
 2. Github Code: https://github.com/19smabtahinoor/Navbar-React-Tailwind
 3. Technology : React JS, Tailwind CSS
 </details>
