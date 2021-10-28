@@ -5,7 +5,7 @@
 ### Here are some ideas about me
 
 <p>
-👑 I am MREN Stack Developer <br> 
+👑 I am MERN Stack Developer <br> 
 🖊️ Love to write code <br> 
 🎤 Like to learning & share my knowledge <br>
 📫 My Portfolio: [Md Azadur Rahman](https://iazadur.netlify.app/)</p> 
