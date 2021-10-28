@@ -43,7 +43,7 @@ my favorite parts of being a High-Level programmer.
 
 
 
-## 💻 Languages and Tools:
+<!-- ## 💻 Languages and Tools: -->
 
 
 
@@ -76,4 +76,6 @@ my favorite parts of being a High-Level programmer.
 
 
 <!--  -->
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iazadur&show_icons=true&theme=cobalt)
