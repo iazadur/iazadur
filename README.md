@@ -35,7 +35,7 @@
 
 
 
-[![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/19smabtahinoor)
+<!-- [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/19smabtahinoor)
 [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/19smabtahinoor)
 [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/19smabtahinoor)
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/19smabtahinoor)
@@ -63,8 +63,8 @@
 [![Vs Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D6?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/19smabtahinoor)
 
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=19smabtahinoor&show_icons=true&theme=dark)
+ -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iazadur&show_icons=true&theme=cobalt)  
 
 # 🚀 Some Projects
 
