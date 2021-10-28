@@ -4,17 +4,29 @@
 ![Github Cover](githubcover.jpg)
 ### Here are some ideas about me
 
-- 🏫 I read in Class 8 at [Dhaka Residential Model College](http://drmc.edu.bd)
-- 🌱 I'm currently Learning **Node, Express & MongoDB** 🤣
-- 💻 Most used code `console.log()`
-- 🎯 2021 Goals: **MERN Stack Development**
-- 😂 Fun Fact: I love to draw
-- 📫 My Portfolio: [S.M.Abtahi Noor](https://smabtahinoor.vercel.app)
+<p>
+👑 I am Web Developer <br> 
+🖊️ Love to write code <br> 
+🎤 Like to share my knowledge <br>
+📫 My Portfolio: [Md Azadur Rahman](https://iazadur.netlify.app/)</p> 
 
 
-![Profile Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=iazadur.iazadur)
+![Profile views](https://gpvc.arturio.dev/iazadur) 
 
-![Profile Follower Count](https://img.shields.io/github/followers/iazadur.svg?style=for-the-badge&logo=github&label=Follower&maxAge=2592000)
+<!-- ![Profile Follower Count](https://img.shields.io/github/followers/iazadur.svg?style=for-the-badge&logo=github&label=Follower&maxAge=2592000) -->
+
+<!-- about me here -->
+Always ready to prove myself through my work and responsibility. To establish myself as
+an outstanding performer, Discovering something new every single day is one of
+my favorite parts of being a High-Level programmer.
+
+
+## 👨‍💻 Skills & Experiance: 
+✅ WordPress <br> 
+✅ JavaScript <br>
+✅ PHP <br>
+✅ HTML5 / CSS3 / SASS / Bootstrap <br>
+✅ Photoshop / Illustrator <br>
 
 
 
