@@ -14,7 +14,7 @@
 
 ![Profile Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=iazadur.iazadur)
 
-![Profile Follower Count](https://img.shields.io/github/followers/19smabtahinoor.svg?style=for-the-badge&logo=github&label=Follower&maxAge=2592000)
+![Profile Follower Count](https://img.shields.io/github/followers/iazadur.svg?style=for-the-badge&logo=github&label=Follower&maxAge=2592000)
 
 
 
