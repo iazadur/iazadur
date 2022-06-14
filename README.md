@@ -1,14 +1,28 @@
-# 🖐 Hi , I am [Md Azadur Rahman](https://iazadur.netlify.app/)
+<!-- # 🖐 Hi , I am [Md Azadur Rahman](https://iazadur.netlify.app/) -->
+
+<h1 align="center">Hi 👋, I'm MD AZADUR RAHMAN</h1>
+<h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
+
+
 
 
 <!-- ![Github Cover](githubcover.jpg) -->
 ### Here are some ideas about me
 
 <p>
-👑 I am MERN Stack Developer <br> 
-🖊️ Love to write code <br> 
-🎤 Like to learning & share my knowledge <br>
-📫 My Portfolio: [Md Azadur Rahman](https://iazadur.netlify.app/)</p> 
+- 🖊️ Love to write code
+  
+- 🎤 Like to learning & share my knowledge
+  
+- 🌱 I’m currently learning **Typescript**
+
+- 👨‍💻 All of my projects are available at [https://iazadur.netlify.app/](https://iazadur.netlify.app/)
+  
+- 💬 Ask me about **React, Typescript , Javascript , Redux toolkit, Tailwindcss, React-native**
+
+- 📫 How to reach me **iamazadur@gmail.com**
+
+- ⚡ Fun fact **I think I am funny**
 
 
 ![Profile views](https://gpvc.arturio.dev/iazadur) 
@@ -22,11 +36,12 @@ my favorite parts of being a High-Level programmer.
 
 
 ## 👨‍💻 Skills & Experiance: 
-✅ React Js <br> 
-✅ JavaScript <br>
-✅ Node <br>
-✅ Express <br>
-✅ Mongodb <br>
+✅ Javascript
+✅ Typescript
+✅ Reactjs
+✅ Nextjs
+✅ Redux Toolkit
+✅ Node / Express / MongoDB
 ✅ HTML5 / CSS3 / SASS / Bootstrap / tailwindcss / Material <br>
 
 
