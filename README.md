@@ -36,12 +36,12 @@ my favorite parts of being a High-Level programmer.
 
 
 ## 👨‍💻 Skills & Experiance: 
-✅ Javascript
-✅ Typescript
-✅ Reactjs
-✅ Nextjs
-✅ Redux Toolkit
-✅ Node / Express / MongoDB
+✅ Javascript <br/>
+✅ Typescript <br/>
+✅ Reactjs <br/>
+✅ Nextjs <br/>
+✅ Redux Toolkit <br/>
+✅ Node / Express / MongoDB <br/>
 ✅ HTML5 / CSS3 / SASS / Bootstrap / tailwindcss / Material <br>
 
 
@@ -57,6 +57,10 @@ my favorite parts of being a High-Level programmer.
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamazadur@gmail.com)
 
 
+  
+  
+  
+  
 
 <!-- ## 💻 Languages and Tools: -->
 
@@ -94,3 +98,30 @@ my favorite parts of being a High-Level programmer.
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iazadur&show_icons=true&theme=cobalt)
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iazadur)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=iazadur)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iazadur)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iazadur&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iazadur)  
+
+![GitHub metrics](https://metrics.lecoq.io/iazadur)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=iazadur)  
+
+![Profile views](https://gpvc.arturio.dev/iazadur)  
