@@ -124,9 +124,9 @@ my favorite parts of being a High-Level programmer.
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=iazadur)  
 
-<div> 
- ![Snake animation](https://github.com/pedrohti/pedrohti/blob/output/github-contribution-grid-snake.svg)
-</div>
+
+![Snake animation](https://github.com/pedrohti/pedrohti/blob/output/github-contribution-grid-snake.svg)
+
 
 <br/>
 
