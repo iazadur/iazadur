@@ -16,7 +16,7 @@
   
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [https://iazadur.netlify.app/](https://iazadur.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://iazadur.online/](https://iazadur.online/)
   
 - 💬 Ask me about **React, Typescript , Javascript , Redux toolkit, Tailwindcss, React-native**
 
