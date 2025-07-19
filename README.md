@@ -1,114 +1,135 @@
-**MD AZADUR RAHMAN**
-*Full Stack Developer | Open to Opportunities*
-
-*Dhaka, Bangladesh • (+88) 01991666031 • iamazadur@gmail.com • LinkedIn • GitHub • Portfolio • HackerRank*
-
-*Experienced Full Stack Developer with a passion for creating robust and user-friendly web applications. Skilled in both front-end and back-end technologies, with a focus on React.js, Next.js, Node.js, and Express.js. Strong track record of leading development teams and collaborating across functions to deliver high-quality software solutions. Committed to continuous learning and staying updated with industry trends.*
+<h1 align="center">👋 Hey there, I'm <span style="color:#f39c12;">MD Azadur Rahman</span>!</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F39C12&center=true&vCenter=true&width=440&lines=Full+Stack+Developer+from+Bangladesh;React+%2B+Next.js+%2B+Node.js+Expert;Loves+AI%2FML+%2B+Scalable+Systems" alt="Typing SVG" />
+</p>
 
 ---
 
-**Skills:**
-
-**Front-End Development:**
-- React.js, Next.js, JavaScript (ES6), TypeScript
-- UI Libraries: Tailwind CSS, Shadcn, Ant Design, Material UI
-- Component Libraries: HTML5, CSS3, Native Base, React Native Paper, React Navigation
-- State Management: Redux Toolkit, RTK Query
-
-**Back-End Development:**
-- Node.js, Express.js, Prisma, Hono, Bun
-- Databases: MongoDB, MySQL, Firebase, PostgreSQL, SQLite
-- DevOps: Linux
-
-**Tools & Environments:**
-- Version Control: Git & GitHub
-- Editors: Visual Studio Code
-- Browser Tools: Chrome Dev Tools, Redux Dev Tools, React Query Dev Tools
-- Deployment: Azure Cloud (Ubuntu, Windows), Heroku, Netlify, Firebase
-- DevOps: Docker, CI/CD
-
-**Problem Solving:**
-- Programming: C, C++
-- Algorithms: Data Structures and Algorithms
-- Competitive Programming: CodeForces, LeetCode, HackerRank
+### 📍 About Me
+- 🌆 Based in **Dhaka, Bangladesh**
+- 💻 Full Stack Developer with **4+ years** of experience
+- 🚀 Specializing in **React, Next.js, Node.js, Express, MongoDB**
+- 🧠 Dabble in **AI/ML**, love building smart apps
+- 🛠️ Passionate about **problem solving** & **scalable architecture**
+- 📫 Reach me: [iamazadur@gmail.com](mailto:iamazadur@gmail.com)
 
 ---
 
-**Experience:**
+### 🧰 Tech Stack
 
-**Software Engineer Front-End**
-*Barikoi | Running (On-site) | December 2023 – Present*
-- Determining the structure and design of web pages
-- Ensuring user experience determines design choices
-- Developing features to enhance the user experience
-- Write functional requirement documents and guides
-- Stay up-to-date on emerging technologies
+#### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+![Shadcn UI](https://img.shields.io/badge/Shadcn-UI-%23678?style=for-the-badge)
 
-**Front-End React.js Developer**
-*Enov Technologies | Running (Remote) | September 2022 – December 2023*
-- Lead a team of five developers in designing and developing web applications.
-- Spearheaded the development of modern web applications using Next.js, ensuring responsive and user-friendly interfaces.
-- Collaborate with cross-functional teams to deliver high-quality software solutions, resulting in a 20% increase in user engagement.
-- Implement state management with Redux and optimize code for performance, leading to a 30% reduction in loading times.
-- Actively participate in code reviews, offering valuable feedback and maintaining code quality standards.
+#### ⚙️ Backend & DB
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
 
-**Freelance React.js Developer**
-*Fiverr & Upwork | Running (Remote) | July 2022 - Present*
-- Completed 100+ projects on Fiverr and Upwork, including JobMQ, Employee Management, and Gamify.
-- Collaborated with clients from various industries to develop custom web applications, ensuring their specific requirements were met.
-- Demonstrated strong communication skills in understanding and delivering client needs, resulting in high client ratings or repeat business.
+#### 🧪 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira)
 
-**Front-End Developer**
-*Wavebox | November 2021 - August 2022*
-- Lead a team of three developers in designing and developing web applications.
-- Contributed to the design and development of web applications, specializing in front-end technologies (Next.js,).
-- Led the integration of RESTful APIs and optimized the application for cross-browser compatibility.
-- Worked on project X, resulting in a 40% improvement in page load times and a 15% increase in user satisfaction.
-- Collaborated with UX/UI designers to ensure seamless user experiences and visually appealing interfaces.
-
-**Software Developer (Internship)**
-*Charles Technology Africa Ltd (Remote)| August 2021 - October 2021*
-- Gained hands-on experience in software development, focusing on front-end and back-end technologies.
-- Assisted in building and testing web applications, contributing to the successful delivery of project Y.
-- Worked closely with senior developers, learning best practices in software development and problem-solving.
+#### 🤖 AI & ML
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
 ---
 
-**Technical Projects:**
+### 💼 Work Experience
 
-*Current Projects:*
+#### 🧑‍💻 **Software Engineer (Front-End)** — Barikoi  
+*Dec 2023 – Present | Dhaka, Bangladesh*  
+- Built UI with React.js, Next.js & Shadcn UI  
+- Optimized performance with RTK Query, reduced load time by 30%  
+- Authored technical docs for internal processes  
 
-- **AI Projects (NotesGPT, Turboseek, PDFtoChat)**
-  - Description: Developed a suite of AI-driven platforms to enhance productivity and user experience.
-  - Technology: Next.js, TypeScript, Tailwind CSS, Shadcn, Motion
+#### 💻 **React Developer** — Enov Technologies  
+*Sep 2022 – Dec 2023 | Remote*  
+- Led a 5-member team, developed with Next.js + TypeScript  
+- Integrated Socket.IO & REST APIs  
+- Boosted UX and engagement by 20%  
 
-- **E-commerce Projects (Komdaam.com, Bishworang.com.bd, Hatersodai.com)**
-  - Description: Developed and launched three robust e-commerce platforms designed for seamless user experiences.
-  - Technology: React JS, Next.js, RTK Query, Redux Toolkit, Tailwindcss, REST API integration
+#### 🌍 **Freelancer (Full Stack)** — Fiverr & Upwork  
+*Jul 2022 – Present | Remote*  
+- Completed 100+ global projects (JobMQ, Gamify, etc.)  
+- Built scalable real-time apps with MongoDB & Bull Queue
 
-- **Job Portal Projects (jobmq.com, Bishworang.com.bd, Hatersodai.com)**
-  - Description: Developed and launched JOBMQ, an innovative job portal designed to streamline the job search and application processes.
-  - Technology: React JS, Next.js, RTK Query, Redux Toolkit, Tailwind CSS, REST API integration
-
----
-
-**Professional Certified Training:**
-- HTML, CSS, JavaScript – Sololearn, 2018
-- Web Development and JavaScript Bootcamp – Udemy, 2021
-- Complete Web Development Course - with Jhankar Mahbub from Programming Hero, 2021
+...and more! *(View full experience below)*
 
 ---
 
-**Education:**
-- Bachelor of Science (BSc) in Computer Science and Engineering
-  NORTHERN UNIVERSITY OF BUSINESS AND TECHNOLOGY, KHULNA
-  August 2020 - Present (Expected Graduation: December 2024)
-- Diploma in Computer Technology
-  SATKHIRA TECHNICAL SCHOOL & COLLEGE
-  August 2016 - December 2020
-  CGPA: 3.86 out of (4.00)
+### 📦 Featured Projects
+
+- 🚀 **NotesGPT, PDFtoChat, Turboseek**  
+  *Next.js, MongoDB, OpenAI, Shadcn UI*  
+  → AI-powered tools for productivity and chat
+
+- 🛒 **Komdaam.com, Bishworang.com.bd, Hatersodai.com**  
+  *E-commerce built with Next.js, Tailwind, Redis, RabbitMQ*
+
+- 💼 **JobMQ**  
+  *Job portal with real-time updates, Bull Queue, MongoDB*
 
 ---
 
-**Language:**
-- Bangla (Fluent), English (Conversational)
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iazadur&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iazadur&layout=compact&theme=tokyonight" height="180" />
+</p>
+
+---
+
+### 🎓 Education
+- 🎓 **B.Sc in CSE**, Northern University of Business & Tech (2020–2024)  
+- 🏫 **Diploma in Computer Tech**, Satkhira TSC (2016–2020)  
+  *CGPA: 3.86 / 4.00*
+
+---
+
+### 🏅 Certifications
+- HTML, CSS, JS – SoloLearn  
+- Web Dev Bootcamp – Udemy  
+- Full-Stack Course – Programming Hero  
+
+---
+
+### 💬 Languages
+- 🇧🇩 Bangla – Native  
+- 🌐 English – Conversational  
+
+---
+
+### 🎯 Why Work With Me?
+✨ 4+ Years Experience  
+🧠 Full Stack | AI/ML | DevOps  
+🚀 Built Real-Time Scalable Systems  
+🤝 100+ Projects Delivered on Fiverr & Upwork  
+🎯 Client-Centric, Team Leader, and Problem Solver  
+
+---
+
+### 📢 Let’s Connect!
+
+<p align="center">
+  <a href="mailto:iamazadur@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mdazadurrahman/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://fiverr.com/iazadur"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+</p>
+
+<p align="center"><b>Let’s build something amazing together! 💡</b></p>
